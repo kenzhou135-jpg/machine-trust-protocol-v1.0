@@ -51,11 +51,6 @@ MTP is designed to integrate seamlessly with:
 | **2026** | Interoperability & Scale — cross-standard bindings, adaptive reputation |
 | **2027** | Global Standardization — OMTA/IETF/W3C alignment, autonomous governance |
 
-📄 Download
-
-[➡️ **Download the Full Whitepaper (DOCX)**]
-
-
 
  ⚖️ License
 
