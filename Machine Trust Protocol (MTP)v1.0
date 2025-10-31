@@ -1,0 +1,69 @@
+# Machine Trust Protocol (MTP)
+
+> **The trust layer of the machine civilization.**  
+> A foundational, protocol-agnostic framework enabling verifiable machine identity, proof-of-work, and settlement across Web2, Web3, and AI systems.
+
+---
+
+## 📘 Whitepaper
+
+**Version:** v1.0 — October 31, 2025  
+**Author:** Ken Zhou — Founder & CEO, NodeX Labs Inc.  
+**Organization:** [NodeX Labs](https://nodex.xyz)
+
+📄 [Download the Full Whitepaper (DOCX)](./Machine%20Trust%20Protocol%20(MTP)%20v1.0.docx)
+
+---
+
+## 📚 Table of Contents
+
+- [Preface — The Coming Machine Civilization](#preface--the-coming-machine-civilization)
+- [Chapter I — Manifesto of Machine Trust](#chapter-i--manifesto-of-machine-trust)
+- [Chapter II — The Trust Crisis in the Machine Age](#chapter-ii--the-trust-crisis-in-the-machine-age)
+- [Chapter III — Design Philosophy: From Silicon to Algorithmic Trust](#chapter-iii--design-philosophy-from-silicon-to-algorithmic-trust)
+- [Chapter IV — Protocol Overview (Architecture v1.0)](#chapter-iv--protocol-overview-architecture-v10)
+- [Chapter V — Core Components](#chapter-v--core-components)
+- [Chapter VI — Interoperability & External Standards](#chapter-vi--interoperability--external-standards)
+- [Chapter VII — Governance & Incentives](#chapter-vii--governance--incentives)
+- [Chapter VIII — Roadmap (2025–2027)](#chapter-viii--roadmap-20252027)
+- [Chapter IX — Ecosystem & Alliances](#chapter-ix--ecosystem--alliances)
+- [Chapter X — The Trust Singularity](#chapter-x--the-trust-singularity)
+- [Appendix — Technical Specification](#appendix--technical-specification)
+
+---
+
+## 🧩 Overview
+
+Machine Trust Protocol (MTP) establishes a **verifiable trust layer for the machine economy**, allowing devices, agents, and AI systems to:
+- Prove **who** they are (*ProofX*)
+- Prove **what** they executed (*PoRW*)
+- Settle **how** value is transferred (*MTP-Settlement*)
+
+It bridges Web2, Web3, and AI compute environments under one interoperable, decentralized trust fabric.
+
+---
+
+## 🧠 Vision
+
+MTP transforms **trust into a computational primitive** — verifiable, measurable, and programmable.  
+By linking identity, execution, and settlement through cryptographic proofs, MTP enables a future where **machines can act, pay, and be trusted** — autonomously.
+
+> “When computation becomes truth, trust becomes civilization.” — Ken Zhou
+
+---
+
+## 🧾 License
+
+This project is released under the [MIT License](./LICENSE).
+
+---
+
+## 🧱 Citation
+
+If you reference this work, please cite as:
+
+> Zhou, Ken. *Machine Trust Protocol (MTP): The Trust Layer of the Machine Civilization.* NodeX Labs Inc., 2025.
+
+---
+
+© 2025 NodeX Labs Inc. — Building the open machine economy.
