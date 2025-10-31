@@ -51,29 +51,31 @@ MTP is designed to integrate seamlessly with:
 | **2026** | Interoperability & Scale — cross-standard bindings, adaptive reputation |
 | **2027** | Global Standardization — OMTA/IETF/W3C alignment, autonomous governance |
 
----
+📄 Download
 
-### 📄 Download
+[➡️ **Download the Full Whitepaper (DOCX)**]
 
-[➡️ **Download the Full Whitepaper (DOCX)**](./Machine%20Trust%20Protocol%20(MTP)%20v1.0.docx)
 
----
 
-### ⚖️ License
+ ⚖️ License
 
 Released under the **MIT License** — open use and modification permitted with attribution.
 
----
 
-### 🧬 About NodeX Labs
+About NodeX Labs
 
-**NodeX Labs** builds the decentralized compute and trust infrastructure  
-for the machine civilization — bridging real compute, AI, and blockchain into a unified economy.  
+NodeX Labs builds the decentralized compute and trust infrastructure for the Machine Civilization — bridging real compute, AI, and blockchain into a unified, verifiable economy.
 
-🌐 [https://nodex.xyz](https://nodex.xyz)  
-🐦 [@kenzhou135](https://x.com/kenzhou135)
+Powered by the Machine Trust Protocol (MTP), NodeX enables machines to prove who they are (ProofX), what they do (PoRW), and why they deserve rewards (MTP-Settlement).
 
----
+Through NodeHub and MTP, NodeX makes it possible to bring any device on-chain, turning computation into verifiable trust and transforming hardware into an economic network of truth.
+
+“Make any device on-chain — and make trust the new compute.”  
+
+website: [https://nodex.xyz](https://nodex.xyz)  
+X: [@kenzhou135](https://x.com/kenzhou135)
+
+
 
 > “When computation becomes truth, trust becomes civilization.”  
 > — Ken Zhou, Founder & CEO, NodeX Labs
